@@ -7,7 +7,7 @@ title: 黑客路上
 subtitle:
 description:
 author: Devin Zhong
-language:
+language: zh-Hans
 timezone: Asia/Shanghai
 
 # URL
@@ -63,7 +63,7 @@ pagination_dir: page
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: landscape
+theme: hexo-theme-primer
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
