@@ -14,8 +14,8 @@ menus:
 
 # Profile
 profile:
-	location: ChengDu, China
-	github: yumemor
+	location: Guangzhou, China
+	github: devinzhong
 	#stackoverflow: 
 		#title: yumemor
 		#href: http://stackoverflow.com/users/5662132/yumemor
@@ -23,12 +23,12 @@ profile:
 
 #Github
 github: 
-	username: yumemor
-  popular_repos: [ysale-sms,scude-answer,cordova-plugin-alipay]
+	username: devinzhong
+  popular_repos: [vue-im,blog]
 
 #Comments
-duoshuo_username: yumemor # 多说配置
-#disqus_username: yumemor # disqus 配置
+#duoshuo_username: way2hacker # 多说配置
+disqus_username: way2hacker # disqus 配置
 
 # Search 
 # google | local

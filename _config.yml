@@ -4,7 +4,7 @@
 
 # Site
 title: 黑客路上
-subtitle:
+subtitle: Stay Hungry. Stay Foolish.
 description:
 author: Devin Zhong
 language: zh-Hans
@@ -38,7 +38,7 @@ post_asset_folder: false
 relative_link: false
 future: true
 highlight:
-  enable: true
+  enable: false
   line_number: true
   auto_detect: false
   tab_replace:
@@ -64,6 +64,11 @@ pagination_dir: page
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
 theme: hexo-theme-primer
+
+# Search for hexo-theme-primer
+search:
+  path: search.xml
+  field: post
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
