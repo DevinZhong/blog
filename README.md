@@ -1,5 +1,4 @@
 # blog
----
 
 ## Introduction
 - It's my personal blog project.
