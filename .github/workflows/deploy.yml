@@ -35,7 +35,7 @@ jobs:
       - name: Setup Node
         uses: pnpm/action-setup@v2
         with:
-          version: 8
+          version: 6.32.10
           cache: pnpm
       - name: Setup Pages
         uses: actions/configure-pages@v3
