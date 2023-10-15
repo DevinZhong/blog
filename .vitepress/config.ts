@@ -5,6 +5,7 @@ async function config() {
     lang: "zh-CN",
     title: "浮华隐士",
     description: "技术博客、日志、随笔",
+    base: '/blog/',
     head: [
       [
         "link",
